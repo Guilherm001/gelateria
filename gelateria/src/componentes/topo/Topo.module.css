@@ -1,0 +1,21 @@
+.container_pai{
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+}
+.container_filho{
+    display: flex;
+    justify-content: space-between;
+    margin: auto;
+
+}
+.container_filho image{
+    width: 80px;
+    height: 30px;
+}
+.Link{
+    display: flex;
+    flex-direction: row;
+    text-decoration: none;
+    margin: 20px;
+}
